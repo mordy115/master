@@ -1,0 +1,220 @@
+ /* THE FIRST NAVBAR */
+ .i
+ {
+     border-radius: 20px;
+     margin-left: 20px;
+ }
+ /* THE END NAVBAR */
+ /* THE FIRST HEADER */
+ .header
+{
+    background-image: url(img/shutterstock_167027156-600x500.jpg);
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center center;
+    align-items: center;
+    background-attachment: fixed;
+
+}
+
+.sha
+{
+    background-color: rgba(0, 0,0, .5);
+    height: 100vh;
+    width: 100%;
+}
+.q
+{
+    margin-top: 20px;  
+}
+.s
+{
+    margin-top: 20px;
+    
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    
+    }
+    /* THE END HEADER */
+
+    /* THE FIRST ICON */
+    .parnt
+    {
+
+       
+      background-image: url(img/تنزيل.jpg);
+      
+        
+        background-size: cover;
+        padding: 20px;
+
+    }
+    .row
+    {
+        margin-top: 50px;
+        margin-left: 40px;
+        font-size: 15px;
+
+    }
+ 
+    .icon
+    {
+    
+      height:6rem ;  
+      width: 6rem;
+      border: black 2px solid;
+      border-radius: 50%;
+      font-size: 40px;
+      background-color: #888 ;
+      
+    
+
+ 
+ }
+ /* the end icon */
+
+/* the first yoga */
+.yoga
+
+{
+    background-image: url(img/shutterstock_139979314-600x500.jpg);
+    
+    background-position: center center ;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    }
+.top
+{
+    margin-top: 150px;
+    margin-bottom: 50px;
+    
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.top p
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+.top button
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+/* the end  yago */
+
+/* the first photos */
+
+.icon-one
+{
+   
+    color: #888;
+    
+    border-radius: 50%;
+    font-size: 40px;
+    
+    }
+
+.yo h3
+{
+    padding-top: 30px;
+}
+.yo p
+{
+    font-size: 17px;
+    color: #888;
+    
+}
+
+.row h3
+{
+    padding-top: 30px;
+}
+.jor img
+{
+    width: 100%;
+height: 100%;
+    
+}
+/* the end photos */
+
+/* the first number */
+.mob
+{
+    background-color: #888;
+   
+}
+.counter-number {
+    font-size: 52px;
+    font-weight: normal;
+    line-height: 1em;
+    margin-bottom: 20px;
+}
+.l
+{
+    font-size: 27px;
+}
+.icon-to
+{
+     
+    color: #888;
+    
+    border-radius: 50%;
+    font-size: 50px ;
+}
+/* the end number */
+
+/* the first icon 3 */
+.Yo
+{
+    background-image: url(img/تنزيل.jpg);
+    background-size: cover;
+    background-position: center center ;
+}
+.icon-two
+{
+    
+    color: #888;
+    
+    border-radius: 50%;
+    font-size: 30px
+}
+/* the end icon */
+/* the first carousel  */
+.carousel
+{
+    background-image: url(img/shutterstock_167027156-600x500.jpg);
+    background-size: cover;
+    background-position: center center ;
+}
+/* the end carousel  */
+/* the first maps */
+.icon-four
+{
+    
+    height:3rem ;  
+    width: 3rem;
+    
+    border-radius: 50%;
+    font-size: 25px;
+    background-color: #888 ;
+}
+.map img
+{
+    height:40rem ;
+    width: 40rem;
+}
+/* the end maps */
